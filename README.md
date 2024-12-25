@@ -1,0 +1,1 @@
+# Strukturni_paterni
