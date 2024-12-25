@@ -1,0 +1,14 @@
+C:\Users\Honor\source\DijkstraAlgorithm\Strukturni_paterni\Strukturni_paterni\obj\Debug\net6.0\Strukturni_paterni.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Honor\source\DijkstraAlgorithm\Strukturni_paterni\Strukturni_paterni\obj\Debug\net6.0\Strukturni_paterni.AssemblyInfoInputs.cache
+C:\Users\Honor\source\DijkstraAlgorithm\Strukturni_paterni\Strukturni_paterni\obj\Debug\net6.0\Strukturni_paterni.AssemblyInfo.cs
+C:\Users\Honor\source\DijkstraAlgorithm\Strukturni_paterni\Strukturni_paterni\obj\Debug\net6.0\Strukturni_paterni.csproj.CoreCompileInputs.cache
+C:\Users\Honor\source\DijkstraAlgorithm\Strukturni_paterni\Strukturni_paterni\bin\Debug\net6.0\Strukturni_paterni.exe
+C:\Users\Honor\source\DijkstraAlgorithm\Strukturni_paterni\Strukturni_paterni\bin\Debug\net6.0\Strukturni_paterni.deps.json
+C:\Users\Honor\source\DijkstraAlgorithm\Strukturni_paterni\Strukturni_paterni\bin\Debug\net6.0\Strukturni_paterni.runtimeconfig.json
+C:\Users\Honor\source\DijkstraAlgorithm\Strukturni_paterni\Strukturni_paterni\bin\Debug\net6.0\Strukturni_paterni.dll
+C:\Users\Honor\source\DijkstraAlgorithm\Strukturni_paterni\Strukturni_paterni\bin\Debug\net6.0\Strukturni_paterni.pdb
+C:\Users\Honor\source\DijkstraAlgorithm\Strukturni_paterni\Strukturni_paterni\obj\Debug\net6.0\Strukturni_paterni.dll
+C:\Users\Honor\source\DijkstraAlgorithm\Strukturni_paterni\Strukturni_paterni\obj\Debug\net6.0\refint\Strukturni_paterni.dll
+C:\Users\Honor\source\DijkstraAlgorithm\Strukturni_paterni\Strukturni_paterni\obj\Debug\net6.0\Strukturni_paterni.pdb
+C:\Users\Honor\source\DijkstraAlgorithm\Strukturni_paterni\Strukturni_paterni\obj\Debug\net6.0\Strukturni_paterni.genruntimeconfig.cache
+C:\Users\Honor\source\DijkstraAlgorithm\Strukturni_paterni\Strukturni_paterni\obj\Debug\net6.0\ref\Strukturni_paterni.dll
